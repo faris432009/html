@@ -1,0 +1,29 @@
+selector{
+    property:value;
+    property:value;
+    property:value;
+}
+h1#firsth{
+    color: black ;
+    font-size: 25px;
+}
+
+#firsth{
+    color: bisque ;
+    font-size: 25px;
+}
+h1{
+    color: burlywood;
+}
+
+
+.collection{
+    color: rgb(20, 2, 200);
+}
+
+
+
+p{
+    color:#0026fc;
+   
+}
